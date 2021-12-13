@@ -1487,3 +1487,540 @@ Make sure 'Stage3_C' has been compiled for  Get SimpleCounterSaveGame
 [2021.12.13-19.12.09:424][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
 [2021.12.13-19.18.24:883][857]BlueprintLog: New page: Compile Stage1
 [2021.12.13-19.18.25:073][857]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.12.13-19.19.52:400][263]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Skeleton_Soldier_3)
+[2021.12.13-19.20.58:800][318]LogEditorTransaction: Undo Set Scale
+[2021.12.13-19.20.58:898][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.21.11:623][ 95]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.21.11:759][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.12.13-19.21.13:247][186]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.21.13:364][186]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2021.12.13-19.21.14:233][236]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.21.14:287][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.12.13-19.21.15:500][236]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-19.21.15:539][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.21.15:668][236]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer92F9F6B541FD9D7A9A1B2881EC3AFCDD.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.21.15:713][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.13-19.21.16:608][236]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage102983B4B48532CFA0A31788C36A945A7.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.21.16:622][236]LogFileHelpers: Saving map 'Stage1' took 0.953
+[2021.12.13-19.21.16:664][237]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-19.21.16:664][237]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.21.16:664][237]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.22.08:278][180]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.22.08:365][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.22.15:673][606]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.22.15:783][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.12.13-19.22.16:831][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.22.16:961][671]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer724A96864D5D2D6BBC46AC94CBDB0B57.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.22.16:981][671]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.22.16:981][671]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.22.17:688][717]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.22.17:741][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.12.13-19.22.39:587][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.13-19.22.39:588][ 88]PIE: New page: PIE session: Stage1 (13 dic. 2021 21:22:39)
+[2021.12.13-19.22.39:590][ 88]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.13-19.22.39:591][ 88]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.13-19.22.39:591][ 88]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.22.39:788][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197648s)
+[2021.12.13-19.22.39:789][ 88]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-19.22.39:790][ 88]LogPlayLevel: PIE: World Init took: (0.001907s)
+[2021.12.13-19.22.39:791][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Stage1.Stage1 to /Game/Scenes/UEDPIE_0_Stage1.Stage1 (0.200523s)
+[2021.12.13-19.22.39:837][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.12.13-19.22.39:840][ 88]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-19.22.39:840][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-19.22.39:840][ 88]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.13-19.22.39:840][ 88]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-19.22.39:845][ 88]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-19.22.39:845][ 88]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-19.22.39:855][ 88]LogAudioMixer: Display: Using Audio Device Altavoces (2- Wireless Stereo Headset)
+[2021.12.13-19.22.39:856][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-19.22.39:856][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-19.22.39:856][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-19.22.39:856][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-19.22.39:856][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-19.22.39:856][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-19.22.39:870][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-19.22.39:870][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-19.22.39:870][ 88]LogInit: FAudioDevice initialized.
+[2021.12.13-19.22.39:870][ 88]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage1'.
+[2021.12.13-19.22.39:888][ 88]LogLoad: Game class is 'MainGameMode_C'
+[2021.12.13-19.22.39:996][ 88]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2021.12.13-20.22.39
+[2021.12.13-19.22.39:999][ 88]LogWorld: Bringing up level for play took: 0.111251
+[2021.12.13-19.22.39:999][ 88]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.12.13-19.22.40:007][ 88]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.13-19.22.40:007][ 88]PIE: Warning: Invalid Simulate Options: Body (MainPlayer_C_0.PlayerCharacter SK_Character_Skeleton_Slave_01) is set to simulate physics but Collision Enabled is incompatible
+[2021.12.13-19.22.40:013][ 88]LogScript: Warning: Accessed None trying to read property MainWidget
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:01EF
+[2021.12.13-19.22.40:013][ 88]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainWidget". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.22.40:013][ 88]LogScript: Warning: Attempted to assign to None
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:0204
+[2021.12.13-19.22.40:013][ 88]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.22.40:013][ 88]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.12.13-19.22.40:014][ 88]PIE: Server logged in
+[2021.12.13-19.22.40:016][ 88]PIE: Play in editor total start time 0,43 seconds.
+[2021.12.13-19.22.58:673][897]LogEditorViewport: Clicking on Actor (LMB): MainPlayer_C (MainPlayer)
+[2021.12.13-19.23.03:033][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.03:033][171]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.03:036][171]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.23.03:055][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.03:067][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.13-19.23.03:081][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.03:143][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.03:143][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.03:144][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.03:197][171]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2021.12.13-19.23.03:306][172]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.12.13-19.23.04:788][329]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.04:796][329]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.06:916][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Apartment_Door_3)
+[2021.12.13-19.23.07:545][627]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.12.13-19.23.10:362][959]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.23.15:767][583]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.23.19:543][  9]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.12.13-19.23.20:473][  9]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage124A79A434466BCBD54126CABE23BB74F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.23.20:511][  9]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-19.23.20:511][  9]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.23.20:918][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.13-19.23.20:927][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.13-19.23.20:927][ 57]PIE: New page: PIE session: Stage1 (13 dic. 2021 21:23:20)
+[2021.12.13-19.23.20:927][ 57]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.21:122][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.194319s)
+[2021.12.13-19.23.21:123][ 57]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-19.23.21:125][ 57]LogPlayLevel: PIE: World Init took: (0.002920s)
+[2021.12.13-19.23.21:125][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Stage1.Stage1 to /Game/Scenes/UEDPIE_0_Stage1.Stage1 (0.197815s)
+[2021.12.13-19.23.21:175][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.12.13-19.23.21:177][ 57]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-19.23.21:177][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-19.23.21:177][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-19.23.21:178][ 57]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.13-19.23.21:178][ 57]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-19.23.21:182][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-19.23.21:182][ 57]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: Display: Using Audio Device Altavoces (2- Wireless Stereo Headset)
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-19.23.21:194][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-19.23.21:208][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-19.23.21:208][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-19.23.21:208][ 57]LogInit: FAudioDevice initialized.
+[2021.12.13-19.23.21:208][ 57]LogAudio: Display: Audio Device (ID: 3) registered with world 'Stage1'.
+[2021.12.13-19.23.21:220][ 57]LogLoad: Game class is 'MainGameMode_C'
+[2021.12.13-19.23.21:328][ 57]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2021.12.13-20.23.21
+[2021.12.13-19.23.21:331][ 57]LogWorld: Bringing up level for play took: 0.109596
+[2021.12.13-19.23.21:331][ 57]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.12.13-19.23.21:333][ 57]PIE: Warning: Invalid Simulate Options: Body (MainPlayer_C_0.PlayerCharacter SK_Character_Skeleton_Slave_01) is set to simulate physics but Collision Enabled is incompatible
+[2021.12.13-19.23.21:338][ 57]LogScript: Warning: Accessed None trying to read property MainWidget
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:01EF
+[2021.12.13-19.23.21:338][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainWidget". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.23.21:338][ 57]LogScript: Warning: Attempted to assign to None
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:0204
+[2021.12.13-19.23.21:338][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.23.21:339][ 57]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.12.13-19.23.21:339][ 57]PIE: Server logged in
+[2021.12.13-19.23.21:340][ 57]PIE: Play in editor total start time 0,413 seconds.
+[2021.12.13-19.23.25:813][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.25:813][569]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.25:816][569]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.23.25:835][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.25:847][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.13-19.23.25:870][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.25:921][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.25:921][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.25:923][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.25:971][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.12.13-19.23.26:053][570]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.12.13-19.23.27:663][688]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.27:671][688]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.28:431][764]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.13-19.23.28:438][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.13-19.23.28:438][764]PIE: New page: PIE session: Stage1 (13 dic. 2021 21:23:28)
+[2021.12.13-19.23.28:438][764]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.28:633][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195192s)
+[2021.12.13-19.23.28:634][764]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-19.23.28:635][764]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2021.12.13-19.23.28:635][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Stage1.Stage1 to /Game/Scenes/UEDPIE_0_Stage1.Stage1 (0.197502s)
+[2021.12.13-19.23.28:685][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.12.13-19.23.28:687][764]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-19.23.28:687][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-19.23.28:687][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-19.23.28:687][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.13-19.23.28:688][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-19.23.28:692][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-19.23.28:692][764]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-19.23.28:703][764]LogAudioMixer: Display: Using Audio Device Altavoces (2- Wireless Stereo Headset)
+[2021.12.13-19.23.28:703][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-19.23.28:703][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-19.23.28:703][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-19.23.28:703][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-19.23.28:703][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-19.23.28:703][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-19.23.28:717][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-19.23.28:717][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-19.23.28:717][764]LogInit: FAudioDevice initialized.
+[2021.12.13-19.23.28:717][764]LogAudio: Display: Audio Device (ID: 4) registered with world 'Stage1'.
+[2021.12.13-19.23.28:727][764]LogLoad: Game class is 'MainGameMode_C'
+[2021.12.13-19.23.28:834][764]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2021.12.13-20.23.28
+[2021.12.13-19.23.28:837][764]LogWorld: Bringing up level for play took: 0.109695
+[2021.12.13-19.23.28:837][764]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.12.13-19.23.28:840][764]PIE: Warning: Invalid Simulate Options: Body (MainPlayer_C_0.PlayerCharacter SK_Character_Skeleton_Slave_01) is set to simulate physics but Collision Enabled is incompatible
+[2021.12.13-19.23.28:844][764]LogScript: Warning: Accessed None trying to read property MainWidget
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:01EF
+[2021.12.13-19.23.28:844][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainWidget". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.23.28:844][764]LogScript: Warning: Attempted to assign to None
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:0204
+[2021.12.13-19.23.28:844][764]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.23.28:845][764]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.12.13-19.23.28:846][764]PIE: Server logged in
+[2021.12.13-19.23.28:847][764]PIE: Play in editor total start time 0,41 seconds.
+[2021.12.13-19.23.30:142][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.30:142][898]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.30:145][898]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.23.30:164][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.30:176][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.13-19.23.30:198][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.30:246][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.30:247][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.30:248][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.30:306][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.12.13-19.23.30:389][899]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.12.13-19.23.31:714][990]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.31:722][990]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.34:922][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.13-19.23.34:922][331]PIE: New page: PIE session: Stage1 (13 dic. 2021 21:23:34)
+[2021.12.13-19.23.34:922][331]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.35:143][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221283s)
+[2021.12.13-19.23.35:144][331]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-19.23.35:145][331]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2021.12.13-19.23.35:145][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Stage1.Stage1 to /Game/Scenes/UEDPIE_0_Stage1.Stage1 (0.223511s)
+[2021.12.13-19.23.35:197][331]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.12.13-19.23.35:199][331]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-19.23.35:199][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-19.23.35:199][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-19.23.35:200][331]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.13-19.23.35:200][331]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-19.23.35:205][331]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-19.23.35:205][331]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-19.23.35:215][331]LogAudioMixer: Display: Using Audio Device Altavoces (2- Wireless Stereo Headset)
+[2021.12.13-19.23.35:215][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-19.23.35:215][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-19.23.35:215][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-19.23.35:216][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-19.23.35:216][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-19.23.35:216][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-19.23.35:229][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-19.23.35:229][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-19.23.35:229][331]LogInit: FAudioDevice initialized.
+[2021.12.13-19.23.35:229][331]LogAudio: Display: Audio Device (ID: 5) registered with world 'Stage1'.
+[2021.12.13-19.23.35:254][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-19.23.35:254][331]LogLoad: Game class is 'MainGameMode_C'
+[2021.12.13-19.23.35:376][331]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2021.12.13-20.23.35
+[2021.12.13-19.23.35:379][331]LogWorld: Bringing up level for play took: 0.124358
+[2021.12.13-19.23.35:379][331]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.12.13-19.23.35:382][331]PIE: Warning: Invalid Simulate Options: Body (MainPlayer_C_0.PlayerCharacter SK_Character_Skeleton_Slave_01) is set to simulate physics but Collision Enabled is incompatible
+[2021.12.13-19.23.35:387][331]LogScript: Warning: Accessed None trying to read property MainWidget
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:01EF
+[2021.12.13-19.23.35:387][331]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainWidget". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.23.35:387][331]LogScript: Warning: Attempted to assign to None
+	MainGameMode_C /Game/Scenes/UEDPIE_0_Stage1.Stage1:PersistentLevel.MainGameMode_C_0
+	Function /Game/MainGameMode.MainGameMode_C:ExecuteUbergraph_MainGameMode:0204
+[2021.12.13-19.23.35:387][331]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MainGameMode Function:  Execute Ubergraph Main Game Mode Graph:  EventGraph Node:  Set Time Remaining
+[2021.12.13-19.23.35:390][331]PIE: Server logged in
+[2021.12.13-19.23.35:392][331]PIE: Play in editor total start time 0,472 seconds.
+[2021.12.13-19.23.35:544][332]LogRenderer: Reallocating scene render targets to support 1208x1024 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-19.23.56:707][100]LogSlate: Window 'DeliveryWorkers Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.13-19.23.56:818][100]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Stage1
+[2021.12.13-19.23.56:821][100]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.23.56:842][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.56:852][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.13-19.23.56:882][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.23.56:944][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-19.23.56:944][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.56:945][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-19.23.57:002][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.12.13-19.23.57:150][101]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.12.13-19.23.59:037][107]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.23.59:042][107]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.24.03:050][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.13-19.26.13:160][116]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.12.13-19.26.13:460][116]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage3.Stage3
+[2021.12.13-19.26.13:461][116]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-19.26.13:461][116]LightingResults: New page: Lighting Build
+[2021.12.13-19.26.13:461][116]LoadErrors: New page: Loading map: Stage3.umap
+[2021.12.13-19.26.13:501][116]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.26.13:501][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.26.13:549][116]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.26.13:549][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.26.13:551][116]MapCheck: New page: Map Check
+[2021.12.13-19.26.13:551][116]LightingResults: New page: Lighting Build
+[2021.12.13-19.26.13:628][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-19.26.13:694][116]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.12.13-19.26.13:698][116]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage3'.
+[2021.12.13-19.26.14:050][116]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.12.13-19.26.14:050][116]LogAIModule: Creating AISystem for world Stage3
+[2021.12.13-19.26.14:140][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.12.13-19.26.14:150][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-19.26.14:151][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,864ms to complete.
+[2021.12.13-19.26.14:151][116]LogFileHelpers: Loading map 'Stage3' took 0.691
+[2021.12.13-19.26.22:668][887]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.12.13-19.26.24:683][115]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.26.28:160][484]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.26.33:432][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Flat_Platform_10)
+[2021.12.13-19.26.33:649][ 95]Cmd: TRANSACTION UNDO
+[2021.12.13-19.26.33:649][ 95]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.13-19.26.33:722][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.26.34:392][139]Cmd: TRANSACTION UNDO
+[2021.12.13-19.26.34:392][139]LogEditorTransaction: Undo Set Location
+[2021.12.13-19.26.34:459][139]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.26.38:097][533]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.26.41:444][870]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.26.44:665][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.26.51:731][971]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.26.52:460][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.12.13-19.26.53:085][ 37]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage367DC34124305C6F37CE3D28C4D65884E.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage3.umap'
+[2021.12.13-19.26.53:119][ 37]AssetCheck: New page: Asset Save: Stage3
+[2021.12.13-19.26.53:119][ 37]LogContentValidation: Display: Validating World /Game/Scenes/Stage3.Stage3
+[2021.12.13-19.26.53:492][ 76]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.26.53:534][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.13-19.27.20:571][869]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.27.20:647][869]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.27.32:195][574]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.27.32:326][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.12.13-19.27.34:771][728]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.27.34:819][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.12.13-19.27.36:053][728]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-19.27.36:107][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.27.36:260][728]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer1D2A22EE4BD8CEED96A46CBBEA78FD1E.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.27.36:298][729]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.27.36:298][729]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.27.52:942][252]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.27.53:038][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.27.53:462][264]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.27.53:548][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.27.54:084][296]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.27.54:177][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.28.20:355][935]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.28.20:493][935]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.12.13-19.28.21:481][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.28.21:648][980]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer9579DBC346BAB5FE82CF389EEE421E3F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.21:648][980]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset', retrying in .5s...
+[2021.12.13-19.28.22:148][980]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'.
+[2021.12.13-19.28.22:148][980]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.23:359][980]LogSlate: Window 'Message' being destroyed
+[2021.12.13-19.28.23:363][980]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Player/MainPlayer' (MainPlayer.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-19.28.23:363][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.28.23:533][980]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer8BEF453044F4A89A1A4AC6BF95764FA5.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.23:534][980]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset', retrying in .5s...
+[2021.12.13-19.28.24:035][980]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'.
+[2021.12.13-19.28.24:035][980]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.28:776][980]LogSlate: Window 'Message' being destroyed
+[2021.12.13-19.28.28:780][980]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Player/MainPlayer' (MainPlayer.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-19.28.28:803][980]EditorErrors: New page: Save Output
+[2021.12.13-19.28.28:803][980]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.28:803][980]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.30:116][ 60]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.28.30:122][ 60]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.28.30:903][112]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.28.31:007][112]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.12.13-19.28.31:522][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.28.31:648][138]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer94B6352F4B74990E94338C801FF8DF5D.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.28.31:667][138]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.28.31:667][138]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.28.38:544][661]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.12.13-19.28.38:883][661]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.28.38:883][661]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-19.28.38:883][661]LightingResults: New page: Lighting Build
+[2021.12.13-19.28.38:883][661]LoadErrors: New page: Loading map: Stage1.umap
+[2021.12.13-19.28.38:953][661]LogWorld: UWorld::CleanupWorld for Stage3, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.28.38:955][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.28.38:956][661]MapCheck: New page: Map Check
+[2021.12.13-19.28.38:956][661]LightingResults: New page: Lighting Build
+[2021.12.13-19.28.39:022][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-19.28.39:037][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.12.13-19.28.39:043][661]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage1'.
+[2021.12.13-19.28.39:456][661]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.12.13-19.28.39:456][661]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-19.28.39:525][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.13-19.28.39:536][661]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-19.28.39:537][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,62ms to complete.
+[2021.12.13-19.28.39:537][661]LogFileHelpers: Loading map 'Stage1' took 0.654
+[2021.12.13-19.28.41:645][888]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.28.41:686][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.13-19.29.15:366][ 90]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.29.15:494][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.12.13-19.29.16:179][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.29.16:304][131]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer93BE751941FE3D4CABB81B9984C7BFE0.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.29.16:325][131]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.29.16:325][131]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.29.17:017][180]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.29.17:065][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.12.13-19.29.28:684][425]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.29.28:767][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.29.28:984][431]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.29.29:064][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.29.36:583][920]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.13-19.29.36:670][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-19.29.47:296][657]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.29.47:458][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.12.13-19.29.47:999][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.29.48:146][683]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer0998C8DF4693BAD57C2D6D86AF5C814F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.29.48:146][683]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset', retrying in .5s...
+[2021.12.13-19.29.48:647][683]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'.
+[2021.12.13-19.29.48:647][683]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.29.52:390][683]LogSlate: Window 'Message' being destroyed
+[2021.12.13-19.29.52:394][683]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Player/MainPlayer' (MainPlayer.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-19.29.52:413][683]EditorErrors: New page: Save Output
+[2021.12.13-19.29.52:413][683]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.29.53:677][767]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.29.53:685][767]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-19.29.54:512][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.29.54:641][818]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayerB4EA070946C317BEC5DB2895A3F897EF.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.29.54:660][818]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.29.54:660][818]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.29.55:170][856]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.29.55:219][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.12.13-19.30.54:854][532]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.30.54:977][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.12.13-19.30.55:931][594]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.30.55:980][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.12.13-19.30.57:461][594]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-19.30.57:505][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.30.57:631][594]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayerDDD0B275496A047F9165F9A5B02E7E7D.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.30.57:665][595]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.30.57:666][595]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.31.40:800][ 32]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.12.13-19.31.43:014][291]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.31.43:879][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.12.13-19.31.44:792][383]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage142C232FA491C32928731C8B88516F7FF.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.31.44:828][383]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-19.31.44:828][383]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.31.46:929][628]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.31.48:155][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.12.13-19.31.49:067][754]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage1D8EC792F487F5AD86F7458A8385CED4F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.31.49:103][754]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-19.31.49:103][754]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.31.49:499][801]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.31.49:541][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.13-19.32.05:917][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Sidewalk_Straight_230)
+[2021.12.13-19.32.06:758][346]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.12.13-19.32.08:933][600]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.32.09:972][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.13-19.32.10:912][714]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage106F449CE4A6B6F417DE0FF9008DCB028.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.32.10:949][714]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-19.32.10:949][714]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.32.11:346][759]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.32.11:390][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.13-19.32.25:664][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Mailbox_3)
+[2021.12.13-19.32.26:434][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Sidewalk_Straight_230)
+[2021.12.13-19.32.28:167][375]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.12.13-19.32.31:322][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.13-19.32.32:295][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.13-19.32.33:219][842]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage1F030D17A449EA85976DA15805404BFB1.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.32.33:256][842]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-19.32.33:256][842]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.32.33:577][880]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.32.33:618][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.13-19.32.51:397][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.13-19.32.52:314][367]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage11D318A1F46F1E07258E2529FCFF396C2.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-19.32.52:348][367]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-19.32.52:348][367]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.34.31:081][447]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.34.31:199][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.12.13-19.34.31:679][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.34.31:810][468]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer30DF087F488A018BD42BAFAFF6542AEE.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.34.31:830][468]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.34.31:830][468]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.34.52:836][862]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.34.52:993][862]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.12.13-19.34.56:119][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.12.13-19.34.57:308][114]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-19.34.57:346][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.34.57:476][114]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer4528FA3948CDFE48901E1486C2066988.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.34.57:778][114]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage3.Stage3
+[2021.12.13-19.34.57:778][114]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-19.34.57:778][114]LightingResults: New page: Lighting Build
+[2021.12.13-19.34.57:778][114]LoadErrors: New page: Loading map: Stage3.umap
+[2021.12.13-19.34.57:852][114]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.34.57:854][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.34.57:855][114]MapCheck: New page: Map Check
+[2021.12.13-19.34.57:855][114]LightingResults: New page: Lighting Build
+[2021.12.13-19.34.57:921][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-19.34.57:956][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.12.13-19.34.57:960][114]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage3'.
+[2021.12.13-19.34.58:307][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-19.34.58:307][114]LogAIModule: Creating AISystem for world Stage3
+[2021.12.13-19.34.58:371][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.12.13-19.34.58:382][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-19.34.58:382][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,567ms to complete.
+[2021.12.13-19.34.58:382][114]LogFileHelpers: Loading map 'Stage3' took 0.604
+[2021.12.13-19.34.58:419][114]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.34.58:419][114]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.34.59:018][164]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.34.59:061][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.13-19.35.24:665][169]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.35.24:806][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.12.13-19.35.25:786][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.35.25:917][223]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer46F8088A42442453969963BFDFAC8433.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.35.25:939][223]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.35.25:939][223]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.35.26:330][251]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.35.26:379][251]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.12.13-19.35.49:937][981]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.35.50:064][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.12.13-19.35.50:467][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.35.50:598][  1]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayerF6ECCBE84615C176DAC98291CC2FFD69.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.35.50:622][  1]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.35.50:622][  1]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.35.51:237][ 44]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.35.51:286][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.12.13-19.36.19:691][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-19.36.19:819][340]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayer1FF7061543CBA640DD81FB87E99A997F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-19.36.19:837][340]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-19.36.19:837][340]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-19.36.20:340][376]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-19.36.20:452][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
