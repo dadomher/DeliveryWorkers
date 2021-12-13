@@ -2024,3 +2024,539 @@ Continue: Skip saving this asset only.
 [2021.12.13-19.36.19:837][340]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
 [2021.12.13-19.36.20:340][376]BlueprintLog: New page: Compile MainPlayer
 [2021.12.13-19.36.20:452][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.13-19.37.31:351][532]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.12.13-19.37.31:683][532]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage1.Stage1
+[2021.12.13-19.37.31:684][532]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-19.37.31:684][532]LightingResults: New page: Lighting Build
+[2021.12.13-19.37.31:684][532]LoadErrors: New page: Loading map: Stage1.umap
+[2021.12.13-19.37.31:708][532]LogWorld: UWorld::CleanupWorld for Stage3, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-19.37.31:709][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-19.37.31:711][532]MapCheck: New page: Map Check
+[2021.12.13-19.37.31:711][532]LightingResults: New page: Lighting Build
+[2021.12.13-19.37.31:774][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-19.37.31:802][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.12.13-19.37.31:805][532]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage1'.
+[2021.12.13-19.37.32:258][532]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.12.13-19.37.32:258][532]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-19.37.32:327][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.12.13-19.37.32:338][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-19.37.32:339][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,625ms to complete.
+[2021.12.13-19.37.32:339][532]LogFileHelpers: Loading map 'Stage1' took 0.655
+[2021.12.13-19.49.16:972][295]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/danie/OneDrive/Escritorio/unknown.png)
+[2021.12.13-19.49.16:975][295]LogTexture: Display: Building textures: unknown (AutoDXT, 200X200)
+[2021.12.13-19.49.20:597][710]LogContentBrowser: Attempting asset rename: unknown -> options
+[2021.12.13-19.49.20:634][710]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/options413A94884DF4BC58F6F68FBFDA3A3441.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Assets/Buttons/options.uasset'
+[2021.12.13-19.49.20:724][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.12.13-19.49.20:781][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.12.13-19.49.20:816][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.13-19.49.20:939][710]AssetCheck: New page: Asset Save: options
+[2021.12.13-19.49.20:939][710]LogContentValidation: Display: Validating Texture2D /Game/Assets/Buttons/options.options
+[2021.12.13-19.51.12:251][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.12.13-19.51.12:259][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Stage1' took 0.045
+[2021.12.13-19.51.12:260][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Stage1/PlayerInterface] ([1] browsable assets)...
+[2021.12.13-19.51.12:260][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Stage1/PlayerInterface]
+[2021.12.13-19.51.12:319][293]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface_Auto1033AF7E54C713167535A45A370FEFDBC.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Autosaves/Game/Widgets/Stage1/PlayerInterface_Auto1.uasset'
+[2021.12.13-19.51.12:320][293]LogFileHelpers: Auto-saving content packages took 0.061
+[2021.12.13-19.54.14:672][575]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-19.58.54:045][ 95]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-19.58.54:124][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.12.13-19.58.54:823][133]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface364B5D224B2E84B7133E478AABADE232.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.58.54:840][133]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-19.58.54:840][133]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-19.58.56:172][228]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-19.58.56:224][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.12.13-19.59.49:682][901]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-19.59.49:759][901]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.12.13-19.59.50:456][931]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceC8A99B6A46BA90E63485EF9EFE7C59FC.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.59.50:456][931]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset', retrying in .5s...
+[2021.12.13-19.59.50:958][931]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'.
+[2021.12.13-19.59.50:958][931]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.59.54:372][931]LogSlate: Window 'Message' being destroyed
+[2021.12.13-19.59.54:377][931]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Widgets/Stage1/PlayerInterface' (PlayerInterface.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-19.59.54:451][931]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface954031D646430F66173F33A0BC2689E0.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.59.54:451][931]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset', retrying in .5s...
+[2021.12.13-19.59.54:952][931]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'.
+[2021.12.13-19.59.54:952][931]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.59.56:526][931]LogSlate: Window 'Message' being destroyed
+[2021.12.13-19.59.56:531][931]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Widgets/Stage1/PlayerInterface' (PlayerInterface.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-19.59.56:548][931]EditorErrors: New page: Save Output
+[2021.12.13-19.59.56:548][931]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.59.56:548][931]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-19.59.59:113][931]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.12.13-19.59.59:118][931]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Widgets/Stage1/PlayerInterface
+[2021.12.13-20.00.00:514][ 27]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.00.00:584][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.12.13-20.00.01:263][ 62]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceF9902EA44993A6064EDC94858E7226CB.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.00.01:285][ 62]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.00.01:285][ 62]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.00.01:765][ 92]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.00.01:817][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.12.13-20.00.47:699][650]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.00.47:745][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.13-20.01.24:226][217]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.01.24:288][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.12.13-20.01.24:884][246]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceF588C8194C97DA63F78CB388D939B259.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.01.24:901][246]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.01.24:901][246]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.01.25:629][294]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.01.25:682][294]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.12.13-20.02.10:205][479]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.02.10:265][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.13-20.02.13:767][720]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.02.13:832][720]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.12.13-20.02.14:569][759]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface682E0ABC4831E182DFF84DB62545040F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.02.14:592][759]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.02.14:592][759]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.02.15:286][808]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.02.15:337][808]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.12.13-20.02.49:793][249]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.02.49:855][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.12.13-20.02.50:554][285]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceB15212FF4A2D6E4ADF9C16A32586375D.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.02.50:573][285]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.02.50:573][285]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.02.51:808][372]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.02.51:858][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.12.13-20.04.02:721][584]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.04.02:788][584]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.12.13-20.04.03:465][632]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface0E2824094934EC785E961C921B95D8AC.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.04.03:486][632]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.04.03:486][632]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.04.04:723][738]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.04.04:777][738]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.12.13-20.04.32:028][433]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.04.32:105][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.12.13-20.04.32:635][458]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface76C4818041720E2E6C4F0486D45CAED7.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.04.32:652][458]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.04.32:652][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.04.33:067][486]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.04.33:120][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.12.13-20.05.07:288][258]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.05.08:747][359]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.05.08:816][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.12.13-20.05.09:325][381]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface65E6EF6B491D3B36A112B58172050BE1.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.05.09:348][381]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.05.09:348][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.05.10:527][461]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.05.10:579][461]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.12.13-20.05.31:363][145]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.05.32:635][230]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.05.32:699][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.12.13-20.05.33:256][257]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface7897AB1B4FCDF91B06192381B6ABB5A7.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.05.33:276][257]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.05.33:276][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.05.33:825][294]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.05.33:876][294]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.12.13-20.06.52:288][277]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.07.05:879][229]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.07.52:057][124]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.07.52:126][124]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.12.13-20.07.52:684][150]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface3D9EAC8040444A50CCEB0CBC65A0A107.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.07.52:701][150]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.07.52:701][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.08.57:958][319]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.08.58:068][319]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.12.13-20.08.58:481][335]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceEB7E238D4F3C16AB8B2C33B6E6668B09.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.08.58:502][335]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.08.58:502][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.09.00:360][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Sidewalk_Straight_233)
+[2021.12.13-20.09.01:438][606]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.09.01:490][606]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.12.13-20.13.41:558][930]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.13.41:652][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.12.13-20.13.42:159][958]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface6306B4104FBC7712C87DFD80D1F66B42.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.13.42:181][958]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.13.42:181][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.13.51:137][651]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.13.51:224][651]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.12.13-20.13.54:238][868]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface78B0F62941B70CB45329E4BD3CFABFBE.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.13.54:260][868]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.13.54:260][868]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.13.55:493][961]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.13.55:545][961]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.12.13-20.13.57:580][961]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-20.13.57:613][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset" SILENT=true
+[2021.12.13-20.13.57:636][961]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainGameMode8D1594E54714D1F94CF66C81F5265150.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.13.57:672][962]AssetCheck: New page: Asset Save: MainGameMode
+[2021.12.13-20.13.57:672][962]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2021.12.13-20.14.16:789][795]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.14.16:854][795]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.12.13-20.14.17:690][847]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface4F186711460DCFA944830BB9A3D201BE.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.14.17:708][847]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.14.17:708][847]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.14.18:680][917]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.14.18:731][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.12.13-20.15.02:290][ 79]LogSlate: Took 0.005193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.13-20.15.05:179][183]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.13-20.15.07:586][356]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.13-20.15.07:593][356]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.13-20.15.08:897][455]Cmd: TRANSACTION UNDO
+[2021.12.13-20.15.08:897][455]LogEditorTransaction: Undo Change Parameter Type
+[2021.12.13-20.15.08:989][455]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-20.15.32:111][403]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.15.32:178][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.12.13-20.15.32:625][429]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceF5053B944748C43B2F837EA1225E42D2.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.15.32:647][429]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.15.32:647][429]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.15.33:320][479]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.15.33:373][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.12.13-20.17.25:283][324]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.18.36:219][847]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.12.13-20.18.36:229][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Stage1' took 0.061
+[2021.12.13-20.18.36:230][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Stage1/PlayerInterface] ([2] browsable assets)...
+[2021.12.13-20.18.36:230][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Stage1/PlayerInterface]
+[2021.12.13-20.18.36:305][847]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface_Auto2053B4CC945AC003ECDF00CAFDC56930C.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Autosaves/Game/Widgets/Stage1/PlayerInterface_Auto2.uasset'
+[2021.12.13-20.18.36:307][847]LogFileHelpers: Auto-saving content packages took 0.077
+[2021.12.13-20.21.37:877][934]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Users/danie/OneDrive/Escritorio/RELOJ.png)
+[2021.12.13-20.21.37:884][934]LogTexture: Display: Building textures: RELOJ (BGRA8, 837X561)
+[2021.12.13-20.21.39:477][102]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/RELOJ.RELOJ
+[2021.12.13-20.21.39:493][102]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.12.13-20.22.16:748][655]LogEditorTransaction: Undo Rename Widget
+[2021.12.13-20.22.16:859][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-20.22.21:080][943]LogEditorTransaction: Undo Move Widget
+[2021.12.13-20.22.21:167][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-20.23.53:738][449]LogEditorTransaction: Undo Resize Widget
+[2021.12.13-20.23.53:828][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-20.23.57:620][729]LogEditorTransaction: Undo Resize Widget
+[2021.12.13-20.23.57:705][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-20.25.40:041][379]LogEditorTransaction: Undo Resize Widget
+[2021.12.13-20.25.40:130][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.12.13-20.25.47:252][888]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.25.47:383][888]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2021.12.13-20.25.47:948][918]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceD4C4185A44EF50028D1BC58151A52212.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.25.47:970][918]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.25.47:970][918]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.25.48:810][976]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.25.48:887][976]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.12.13-20.25.50:874][976]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-20.25.50:901][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/RELOJ" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Assets/RELOJ.uasset" SILENT=true
+[2021.12.13-20.25.50:912][976]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/RELOJ2B68DA9D45E66D3A85907298C2FB5FB1.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Assets/RELOJ.uasset'
+[2021.12.13-20.25.50:949][977]AssetCheck: New page: Asset Save: RELOJ
+[2021.12.13-20.25.50:949][977]LogContentValidation: Display: Validating Texture2D /Game/Assets/RELOJ.RELOJ
+[2021.12.13-20.26.56:593][625]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.26.56:661][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.12.13-20.26.57:413][664]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface7124A11843AFE59BD86BA5BD23E3957E.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.26.57:435][664]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.26.57:435][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.27.12:566][744]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.27.12:656][744]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.12.13-20.27.13:128][764]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceDF36BC47435C9D856773FA9CD39F71EB.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.27.13:149][764]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.27.13:149][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.27.13:741][804]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.27.13:793][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.12.13-20.29.54:483][973]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.29.59:142][244]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-20.30.00:749][337]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.30.00:828][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.12.13-20.30.26:691][853]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.30.26:775][853]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.12.13-20.30.27:500][882]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface7E5109B84C81A083D11089B026356311.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.27:500][882]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset', retrying in .5s...
+[2021.12.13-20.30.28:002][882]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'.
+[2021.12.13-20.30.28:002][882]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.32:895][882]LogSlate: Window 'Message' being destroyed
+[2021.12.13-20.30.32:899][882]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Widgets/Stage1/PlayerInterface' (PlayerInterface.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-20.30.32:973][882]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface8A5DA1C44AECA210BBA489BF64F08A78.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.32:973][882]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset', retrying in .5s...
+[2021.12.13-20.30.33:474][882]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'.
+[2021.12.13-20.30.33:474][882]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.34:518][882]LogSlate: Window 'Message' being destroyed
+[2021.12.13-20.30.34:522][882]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Widgets/Stage1/PlayerInterface' (PlayerInterface.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-20.30.34:539][882]EditorErrors: New page: Save Output
+[2021.12.13-20.30.34:539][882]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.34:539][882]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.36:225][882]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.12.13-20.30.36:231][882]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Widgets/Stage1/PlayerInterface
+[2021.12.13-20.30.37:071][938]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-20.30.37:077][938]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-20.30.38:270][ 15]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.30.38:338][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.12.13-20.30.38:838][ 37]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface7AEB87DD443A1930A2CCEE8D09BFCA3C.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.38:856][ 37]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.30.38:856][ 37]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.30.58:291][202]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.30.58:389][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.12.13-20.30.58:823][217]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterfaceD5B02EDF4AF52252C2432F9EA9E92D99.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.30.58:845][217]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.30.58:845][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.31.05:142][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.12.13-20.31.05:159][833]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage1.Stage1
+[2021.12.13-20.31.05:159][833]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-20.31.05:159][833]LightingResults: New page: Lighting Build
+[2021.12.13-20.31.05:162][833]LoadErrors: New page: Loading map: Stage1.umap
+[2021.12.13-20.31.05:231][833]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-20.31.05:232][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-20.31.05:233][833]MapCheck: New page: Map Check
+[2021.12.13-20.31.05:233][833]LightingResults: New page: Lighting Build
+[2021.12.13-20.31.05:283][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-20.31.05:304][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.12.13-20.31.05:565][833]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage1'.
+[2021.12.13-20.31.05:566][833]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-20.31.06:051][833]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.12.13-20.31.06:124][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.12.13-20.31.06:137][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-20.31.06:137][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,622ms to complete.
+[2021.12.13-20.31.06:138][833]LogFileHelpers: Loading map 'Stage1' took 0.978
+[2021.12.13-20.31.06:706][879]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.31.06:749][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.12.13-20.31.24:994][694]LogEditorFactories: Performing atomic reimport of [C:/Users/danie/OneDrive/Escritorio/RELOJ.png]
+[2021.12.13-20.31.24:994][694]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/danie/OneDrive/Escritorio/RELOJ.png)
+[2021.12.13-20.31.25:012][694]LogTexture: Display: Building textures: RELOJ (BGRA8, 837X561)
+[2021.12.13-20.31.25:034][694]LogEditorFactories: -- imported successfully
+[2021.12.13-20.31.26:739][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.12.13-20.31.27:688][846]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage130C191194D0979CB3E355EA5C2240A7E.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap'
+[2021.12.13-20.31.27:729][846]AssetCheck: New page: Asset Save: Stage1
+[2021.12.13-20.31.27:729][846]LogContentValidation: Display: Validating World /Game/Scenes/Stage1.Stage1
+[2021.12.13-20.31.57:432][ 96]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.31.57:501][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.12.13-20.31.58:211][139]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface2E9674B648E40D2C443E75BF6AAD1B73.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.31.58:232][139]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.31.58:232][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.32.00:339][330]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.32.00:390][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.12.13-20.32.02:715][330]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-20.32.02:740][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/RELOJ" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Assets/RELOJ.uasset" SILENT=true
+[2021.12.13-20.32.02:752][330]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/RELOJ70AEC58546BB44D89D1443B1DFB5B351.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Assets/RELOJ.uasset'
+[2021.12.13-20.32.02:780][331]AssetCheck: New page: Asset Save: RELOJ
+[2021.12.13-20.32.02:780][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/RELOJ.RELOJ
+[2021.12.13-20.33.13:194][197]BlueprintLog: New page: Compile MainGameMode
+[2021.12.13-20.33.13:280][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.12.13-20.33.13:802][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset" SILENT=true
+[2021.12.13-20.33.13:835][226]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainGameMode959A623A49E644590D5FD794BC674F6F.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.33.13:835][226]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset', retrying in .5s...
+[2021.12.13-20.33.14:336][226]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'.
+[2021.12.13-20.33.14:336][226]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.33.18:550][226]LogSlate: Window 'Message' being destroyed
+[2021.12.13-20.33.18:555][226]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/MainGameMode' (MainGameMode.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-20.33.18:556][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset" SILENT=true
+[2021.12.13-20.33.18:599][226]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainGameMode2637A03740A7C69FDEC209B28B020C6A.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.33.18:599][226]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset', retrying in .5s...
+[2021.12.13-20.33.19:100][226]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.12.13-20.33.19:127][226]EditorErrors: New page: Save Output
+[2021.12.13-20.33.19:127][226]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.33.19:173][226]AssetCheck: New page: Asset Save: MainGameMode
+[2021.12.13-20.33.19:173][226]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2021.12.13-20.33.22:254][392]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-20.33.22:257][392]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-20.33.23:499][395]BlueprintLog: New page: Compile MainGameMode
+[2021.12.13-20.33.23:570][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.12.13-20.33.24:158][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset" SILENT=true
+[2021.12.13-20.33.24:181][434]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainGameMode6865F99046AA3A918DF3BF871A176E9D.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.33.24:202][434]AssetCheck: New page: Asset Save: MainGameMode
+[2021.12.13-20.33.24:202][434]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2021.12.13-20.33.24:838][483]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.33.24:888][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.12.13-20.33.50:746][929]BlueprintLog: New page: Compile MainGameMode
+[2021.12.13-20.33.50:817][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.12.13-20.33.51:472][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset" SILENT=true
+[2021.12.13-20.33.51:496][974]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainGameModeCB74BB454CE41BE684A9E4B0D6F40C97.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/MainGameMode.uasset'
+[2021.12.13-20.33.51:512][974]AssetCheck: New page: Asset Save: MainGameMode
+[2021.12.13-20.33.51:512][974]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2021.12.13-20.33.53:898][209]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.33.53:947][209]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2021.12.13-20.35.03:651][941]BlueprintLog: New page: Compile PlayerInterface
+[2021.12.13-20.35.03:725][941]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.12.13-20.35.04:772][  8]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/PlayerInterface736CB499477B16D048ADE1B080C8D8A9.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/PlayerInterface.uasset'
+[2021.12.13-20.35.04:792][  8]AssetCheck: New page: Asset Save: PlayerInterface
+[2021.12.13-20.35.04:792][  8]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/PlayerInterface.PlayerInterface
+[2021.12.13-20.35.05:594][ 63]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.35.05:651][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.12.13-20.38.51:695][691]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-20.38.51:814][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.12.13-20.38.52:637][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-20.38.52:761][732]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayerAD3EDD184DE6C1F5879958BD5B236B32.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-20.38.52:780][732]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-20.38.52:780][732]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-20.39.05:063][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.12.13-20.39.05:402][676]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage2.Stage2
+[2021.12.13-20.39.05:403][676]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-20.39.05:403][676]LightingResults: New page: Lighting Build
+[2021.12.13-20.39.05:403][676]LoadErrors: New page: Loading map: Stage2.umap
+[2021.12.13-20.39.05:435][676]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-20.39.05:437][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-20.39.05:439][676]MapCheck: New page: Map Check
+[2021.12.13-20.39.05:439][676]LightingResults: New page: Lighting Build
+[2021.12.13-20.39.05:498][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-20.39.05:547][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.12.13-20.39.05:550][676]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage2'.
+[2021.12.13-20.39.05:986][676]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.12.13-20.39.05:987][676]LogAIModule: Creating AISystem for world Stage2
+[2021.12.13-20.39.06:059][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.12.13-20.39.06:072][676]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-20.39.06:073][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,707ms to complete.
+[2021.12.13-20.39.06:073][676]LogFileHelpers: Loading map 'Stage2' took 0.669
+[2021.12.13-20.39.12:127][347]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SM_Veh_Car_Van_7)
+[2021.12.13-20.39.12:593][393]Cmd: DELETE
+[2021.12.13-20.39.12:593][393]Cmd: ACTOR DELETE
+[2021.12.13-20.39.12:653][393]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.12.13-20.39.12:694][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.12.13-20.39.12:699][393]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2021.12.13-20.39.34:055][891]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SM_Veh_Car_Medium_15)
+[2021.12.13-20.39.34:396][921]Cmd: DELETE
+[2021.12.13-20.39.34:396][921]Cmd: ACTOR DELETE
+[2021.12.13-20.39.34:455][921]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.12.13-20.39.34:495][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.13-20.39.34:500][921]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2021.12.13-20.39.44:549][113]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SM_Veh_Car_Sedan_10)
+[2021.12.13-20.39.44:720][127]Cmd: DELETE
+[2021.12.13-20.39.44:720][127]Cmd: ACTOR DELETE
+[2021.12.13-20.39.44:777][127]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.12.13-20.39.44:817][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.12.13-20.39.44:821][127]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2021.12.13-20.39.47:220][383]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SM_Veh_Car_Police_5)
+[2021.12.13-20.39.47:674][427]Cmd: DELETE
+[2021.12.13-20.39.47:674][427]Cmd: ACTOR DELETE
+[2021.12.13-20.39.47:731][427]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.12.13-20.39.47:774][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.12.13-20.39.47:775][427]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2021.12.13-20.40.04:456][367]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SM_Veh_Car_Small_2)
+[2021.12.13-20.40.04:646][380]Cmd: DELETE
+[2021.12.13-20.40.04:646][380]Cmd: ACTOR DELETE
+[2021.12.13-20.40.04:704][380]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.12.13-20.40.04:746][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.13-20.40.04:751][380]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2021.12.13-20.40.11:705][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.13-20.40.12:609][150]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Stage2A763A1894C3B99AE33B9E685D2860C04.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage2.umap'
+[2021.12.13-20.40.12:648][150]AssetCheck: New page: Asset Save: Stage2
+[2021.12.13-20.40.12:648][150]LogContentValidation: Display: Validating World /Game/Scenes/Stage2.Stage2
+[2021.12.13-20.40.13:260][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.12.13-20.40.13:590][206]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Stage1.Stage1
+[2021.12.13-20.40.13:590][206]Cmd: MAP LOAD FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Scenes/Stage1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-20.40.13:590][206]LightingResults: New page: Lighting Build
+[2021.12.13-20.40.13:590][206]LoadErrors: New page: Loading map: Stage1.umap
+[2021.12.13-20.40.13:627][206]LogWorld: UWorld::CleanupWorld for Stage2, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-20.40.13:629][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-20.40.13:631][206]MapCheck: New page: Map Check
+[2021.12.13-20.40.13:631][206]LightingResults: New page: Lighting Build
+[2021.12.13-20.40.13:705][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-20.40.13:725][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.12.13-20.40.13:733][206]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage1'.
+[2021.12.13-20.40.14:165][206]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.12.13-20.40.14:165][206]LogAIModule: Creating AISystem for world Stage1
+[2021.12.13-20.40.14:240][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.12.13-20.40.14:252][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-20.40.14:253][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,701ms to complete.
+[2021.12.13-20.40.14:253][206]LogFileHelpers: Loading map 'Stage1' took 0.663
+[2021.12.13-20.40.15:853][370]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.40.15:897][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.13-20.42.37:948][333]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog1_clt.shortDialog1_clt
+[2021.12.13-20.43.00:967][842]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog1_clt866BD2434A221365D931468688BC8908.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Client/shortDialog1_clt.uasset'
+[2021.12.13-20.43.00:989][842]AssetCheck: New page: Asset Save: shortDialog1_clt
+[2021.12.13-20.43.00:989][842]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog1_clt.shortDialog1_clt
+[2021.12.13-20.43.04:478][190]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog2_clt.shortDialog2_clt
+[2021.12.13-20.43.25:538][465]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog2_cltF503D3344751D1A5642FE6A44EB1F7E7.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Client/shortDialog2_clt.uasset'
+[2021.12.13-20.43.25:559][465]AssetCheck: New page: Asset Save: shortDialog2_clt
+[2021.12.13-20.43.25:559][465]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog2_clt.shortDialog2_clt
+[2021.12.13-20.43.27:799][700]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog3_clt.shortDialog3_clt
+[2021.12.13-20.43.37:595][745]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog3_cltA1BD2BE24EE69EE9B42C58B1A0DC6810.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Client/shortDialog3_clt.uasset'
+[2021.12.13-20.43.37:619][745]AssetCheck: New page: Asset Save: shortDialog3_clt
+[2021.12.13-20.43.37:619][745]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog3_clt.shortDialog3_clt
+[2021.12.13-20.43.52:991][406]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog3_clt4CDEA9DD47868304A910ADB315EB9F9A.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Client/shortDialog3_clt.uasset'
+[2021.12.13-20.43.53:009][406]AssetCheck: New page: Asset Save: shortDialog3_clt
+[2021.12.13-20.43.53:009][406]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog3_clt.shortDialog3_clt
+[2021.12.13-20.43.59:406][133]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Client/shortDialog1_clt.shortDialog1_clt
+[2021.12.13-20.44.06:490][871]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog1_ptr.shortDialog1_ptr
+[2021.12.13-20.44.13:085][564]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog1_ptrD4212E9A40A11A6BEF8456953C935B49.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Partner/shortDialog1_ptr.uasset'
+[2021.12.13-20.44.13:102][564]AssetCheck: New page: Asset Save: shortDialog1_ptr
+[2021.12.13-20.44.13:102][564]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog1_ptr.shortDialog1_ptr
+[2021.12.13-20.44.16:366][894]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog2_ptr.shortDialog2_ptr
+[2021.12.13-20.44.24:452][755]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog2_ptrE8F1ED78488283AD01781393ACB9F723.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Partner/shortDialog2_ptr.uasset'
+[2021.12.13-20.44.24:474][755]AssetCheck: New page: Asset Save: shortDialog2_ptr
+[2021.12.13-20.44.24:474][755]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog2_ptr.shortDialog2_ptr
+[2021.12.13-20.44.31:285][490]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog2_ptrA914CA7540EF85E07C8D7D832952E281.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Partner/shortDialog2_ptr.uasset'
+[2021.12.13-20.44.31:303][490]AssetCheck: New page: Asset Save: shortDialog2_ptr
+[2021.12.13-20.44.31:303][490]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog2_ptr.shortDialog2_ptr
+[2021.12.13-20.44.33:825][760]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog3_ptr.shortDialog3_ptr
+[2021.12.13-20.44.48:246][315]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/shortDialog3_ptr98141A08466BB145A717F0AF5DBD3064.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/ShortDialoge/Partner/shortDialog3_ptr.uasset'
+[2021.12.13-20.44.48:264][315]AssetCheck: New page: Asset Save: shortDialog3_ptr
+[2021.12.13-20.44.48:264][315]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/ShortDialoge/Partner/shortDialog3_ptr.shortDialog3_ptr
+[2021.12.13-20.44.53:787][920]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Dialogue/Dialogue/dialogue1.dialogue1
+[2021.12.13-20.45.19:318][608]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/dialogue1C353A4AE4803AA882DDC899C85AFC4CA.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/Dialogue/dialogue1.uasset'
+[2021.12.13-20.45.19:336][608]AssetCheck: New page: Asset Save: dialogue1
+[2021.12.13-20.45.19:336][608]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/Dialogue/dialogue1.dialogue1
+[2021.12.13-20.45.20:692][753]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/dialogue1AE5613BB4E1057373906C89121CF8463.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/Dialogue/dialogue1.uasset'
+[2021.12.13-20.45.20:712][753]AssetCheck: New page: Asset Save: dialogue1
+[2021.12.13-20.45.20:712][753]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/Dialogue/dialogue1.dialogue1
+[2021.12.13-20.45.20:874][768]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/dialogue19C71672043B4B9E1EF5CD792BD17E4F8.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Dialogue/Dialogue/dialogue1.uasset'
+[2021.12.13-20.45.20:889][768]AssetCheck: New page: Asset Save: dialogue1
+[2021.12.13-20.45.20:889][768]LogContentValidation: Display: Validating Dialogue /Game/Dialogue/Dialogue/dialogue1.dialogue1
+[2021.12.13-20.47.44:656][ 29]BlueprintLog: New page: Compile MainPlayer
+[2021.12.13-20.47.44:782][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.12.13-20.47.46:042][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MainPlayer" FILE="../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset" SILENT=true
+[2021.12.13-20.47.46:175][109]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/MainPlayerCF9B7CE2415BA628BD9F6BBB6DAFCA44.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Player/MainPlayer.uasset'
+[2021.12.13-20.47.46:193][109]AssetCheck: New page: Asset Save: MainPlayer
+[2021.12.13-20.47.46:193][109]LogContentValidation: Display: Validating Blueprint /Game/Player/MainPlayer.MainPlayer
+[2021.12.13-20.47.51:007][600]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.47.51:056][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.12.13-20.50.02:294][666]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Stage1/Tip_widget.Tip_widget
+[2021.12.13-20.50.37:302][404]BlueprintLog: New page: Compile Tip_widget
+[2021.12.13-20.50.37:359][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.12.13-20.50.37:947][441]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Tip_widget6FADEF534478456BB07620854428E80D.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.50.37:972][441]AssetCheck: New page: Asset Save: Tip_widget
+[2021.12.13-20.50.37:972][441]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/Tip_widget.Tip_widget
+[2021.12.13-20.50.39:558][549]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.50.39:615][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.12.13-20.51.04:879][326]BlueprintLog: New page: Compile Tip_widget
+[2021.12.13-20.51.04:936][326]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.12.13-20.51.05:313][344]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Tip_widgetEE8397B44B1DD4AE0E6FD4BFA3A5373A.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.51.05:313][344]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset', retrying in .5s...
+[2021.12.13-20.51.05:814][344]LogFileManager: Error: Error deleting file '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'.
+[2021.12.13-20.51.05:814][344]LogSavePackage: Error: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.51.10:480][344]LogSlate: Window 'Message' being destroyed
+[2021.12.13-20.51.10:486][344]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Widgets/Stage1/Tip_widget' (Tip_widget.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.12.13-20.51.10:506][344]EditorErrors: New page: Save Output
+[2021.12.13-20.51.10:506][344]EditorErrors: Warning: Error saving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.51.11:567][421]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-20.51.11:574][421]LogSlate: Window 'Message Log' being destroyed
+[2021.12.13-20.51.12:955][494]BlueprintLog: New page: Compile Tip_widget
+[2021.12.13-20.51.13:010][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.12.13-20.51.13:791][547]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Tip_widgetA8D4D31247F951FC07A26CBAE6A3D686.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.51.13:810][547]AssetCheck: New page: Asset Save: Tip_widget
+[2021.12.13-20.51.13:810][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/Tip_widget.Tip_widget
+[2021.12.13-20.51.14:300][581]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.51.14:357][581]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.12.13-20.52.36:629][710]BlueprintLog: New page: Compile Tip_widget
+[2021.12.13-20.52.36:681][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.12.13-20.52.37:277][746]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Tip_widget976D09B047BA3E5C60908593D2D2A024.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.52.37:301][746]AssetCheck: New page: Asset Save: Tip_widget
+[2021.12.13-20.52.37:301][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/Tip_widget.Tip_widget
+[2021.12.13-20.52.37:829][783]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.52.37:886][783]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.12.13-20.53.09:674][606]BlueprintLog: New page: Compile Tip_widget
+[2021.12.13-20.53.09:725][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.12.13-20.53.10:446][651]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Tip_widget3200FC4241FF80AA0B5CF8B4E1D7B4E6.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.53.10:464][651]AssetCheck: New page: Asset Save: Tip_widget
+[2021.12.13-20.53.10:464][651]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/Tip_widget.Tip_widget
+[2021.12.13-20.53.11:807][751]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.13-20.53.11:864][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.12.13-20.53.30:031][162]LogSavePackage: Moving '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Saved/Tip_widgetA8ACE52844611595EA1B03A960845F64.tmp' to '../../../../../Users/danie/OneDrive/Escritorio/DeliveryWorkers_repository/DeliveryWorkers/Content/Widgets/Stage1/Tip_widget.uasset'
+[2021.12.13-20.53.30:050][162]AssetCheck: New page: Asset Save: Tip_widget
+[2021.12.13-20.53.30:050][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Stage1/Tip_widget.Tip_widget
+[2021.12.13-20.53.30:481][202]BlueprintLog: New page: Compile Tip_widget
+[2021.12.13-20.53.30:558][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
